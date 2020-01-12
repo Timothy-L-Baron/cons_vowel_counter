@@ -1,6 +1,3 @@
-"""Program 1 for my portfolio - I want to write a program that will take as
-input somebody's name and output the number of vowels and consonants. It will also output a magic word
-created by randomly shuffling the letters of the person's name"""
 import random
 
 #Need lists of vowels and consonants
